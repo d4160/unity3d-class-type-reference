@@ -1,11 +1,8 @@
 {
-  "name": "unity3d-class-type-reference",
+  "name": "rotorz.unity3d-class-type-reference",
+  "displayName": "Class Type Reference",
   "version": "1.0.4",
   "description": "A class which provides serializable references to `System.Type` of classes with an accompanying custom property drawer which allows class selection from drop-down.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/rotorz/unity3d-class-type-reference"
